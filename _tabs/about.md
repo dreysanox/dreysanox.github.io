@@ -19,7 +19,7 @@ Some future topics I will like to dive in are:
 - 🕸️ **Web Security**: Exploring modern web application vulnerabilities and defense strategies
 
 My approach combines theoretical knowledge with hands-on practice through:
-- Solving CTF challenges. I participate in CTF competitions with my team Th3Grue
+- Solving CTF challenges. I participate in CTF competitions with my team **Th3Grue**
 - Documenting my learning process through write-ups and blog posts where I can share what I learn
 - Analyzing real malware samples in controlled environments
 - Contributing to open-source security tools
